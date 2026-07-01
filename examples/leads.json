@@ -1,0 +1,41 @@
+[
+  {
+    "lead_id": "lead-101",
+    "business_name": "Acme Roofing LLC",
+    "state": "TX",
+    "industry": "roofing",
+    "employee_count": 34,
+    "annual_payroll": 2400000,
+    "years_in_business": 12,
+    "wc_policy_active": true,
+    "years_since_last_audit": null,
+    "phone": "+1-555-010-4477",
+    "email": "owner@acme-roofing.example.com",
+    "sms_consent": true
+  },
+  {
+    "lead_id": "lead-102",
+    "business_name": "Evergreen Staffing Solutions",
+    "state": "WA",
+    "industry": "staffing",
+    "employee_count": 85,
+    "annual_payroll": 5200000,
+    "years_in_business": 7,
+    "wc_policy_active": true,
+    "phone": "+1-555-010-6644",
+    "email": "hr@evergreenstaffing.example.com"
+  },
+  {
+    "lead_id": "lead-103",
+    "business_name": "Corner Bakery",
+    "state": "TX",
+    "industry": "restaurant",
+    "employee_count": 4,
+    "annual_payroll": 95000,
+    "years_in_business": 1,
+    "wc_policy_active": true,
+    "years_since_last_audit": 0,
+    "phone": "+1-555-010-1188",
+    "email": "bake@cornerbakery.example.com"
+  }
+]

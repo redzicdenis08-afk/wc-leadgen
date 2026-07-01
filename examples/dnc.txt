@@ -1,0 +1,5 @@
+# Synthetic suppression list — one phone or email per line.
+# Phones are matched digits-only with US country code stripped.
++1-555-010-3390
+5550107710
+unsubscribed@sunrisecafe.example.com

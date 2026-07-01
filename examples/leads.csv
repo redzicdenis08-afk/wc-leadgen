@@ -1,0 +1,9 @@
+lead_id,business_name,state,industry,employee_count,annual_payroll,years_in_business,wc_policy_active,years_since_last_audit,phone,email,sms_consent
+lead-001,Acme Roofing LLC,TX,roofing,34,2400000,12,true,,+1-555-010-4477,owner@acme-roofing.example.com,true
+lead-002,Blue Bonnet Trucking Co,TX,trucking,58,4100000,9,true,4,+1-555-010-8821,dispatch@bluebonnet.example.com,
+lead-003,Sunrise Cafe,FL,restaurant,6,180000,2,true,1,+1-555-010-3390,hello@sunrisecafe.example.com,false
+lead-004,Pacific Widget Manufacturing,CA,manufacturing,120,6800000,22,true,,+1-555-010-5566,ops@pacificwidget.example.com,
+lead-005,Buckeye Concrete Inc,OH,concrete,41,2900000,15,true,5,+1-555-010-7710,office@buckeyeconcrete.example.com,
+lead-006,Mystery Holdings,,office,2,,,,,,,
+lead-007,Granite State Landscaping,NH,landscaping,14,760000,6,true,,+1-555-010-2244,crew@granitelandscape.example.com,true
+lead-008,Lone Star HVAC Services,TX,hvac,22,1500000,8,false,2,+1-555-010-9932,service@lonestarhvac.example.com,

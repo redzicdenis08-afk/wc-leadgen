@@ -1,0 +1,38 @@
+[
+  {
+    "firm_id": "firm-alpha",
+    "name": "Alpha Premium Audit Group",
+    "states": ["TX", "OK", "NM"],
+    "specialties": ["roofing", "construction", "concrete"],
+    "capacity": 5,
+    "current_load": 2,
+    "min_lead_score": 60
+  },
+  {
+    "firm_id": "firm-beta",
+    "name": "Beta Comp Consultants",
+    "states": ["US"],
+    "specialties": ["trucking", "manufacturing"],
+    "capacity": 10,
+    "current_load": 9,
+    "min_lead_score": 70
+  },
+  {
+    "firm_id": "firm-gamma",
+    "name": "Gamma Risk Advisors",
+    "states": ["CA", "NV", "OR"],
+    "specialties": [],
+    "capacity": 3,
+    "current_load": 0,
+    "min_lead_score": 50
+  },
+  {
+    "firm_id": "firm-delta",
+    "name": "Delta Audit Partners",
+    "states": ["NH", "VT", "ME", "MA"],
+    "specialties": ["landscaping", "hvac"],
+    "capacity": 4,
+    "current_load": 1,
+    "min_lead_score": 55
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "from_address": "audits@example.com",
+  "postal_address": "100 Example Plaza, Suite 200, Austin, TX 78701",
+  "unsubscribe_url": "https://example.com/unsubscribe",
+  "subject": "Is your workers' comp premium overcharging you?"
+}
